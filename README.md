@@ -101,7 +101,7 @@ I enjoy solving real-world problems through technology while continuously explor
 
 # 📈 GitHub Activity
 
-.github/workflows/activity.yml
+
 name: GitHub Activity
 
 on:
