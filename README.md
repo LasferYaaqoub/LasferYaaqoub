@@ -2,7 +2,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Lasfer+Yaaqoub;Software+Engineer+💻;Android+%26+Flutter+Developer+📱;AI+Researcher+🤖&center=true&size=30">
+    <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Lasfer+Yaaqoub;Software+Engineer+💻;Android+%26+Flutter+Developer+📱;AI+Researcher+🤖&center=true&size=30"> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Lasfer+Yaaqoub;Software+Engineer+💻;Androidd+Flutter+Developer+📱;AI+Researcher+🤖&center=true&size=30">
   </a>
 </h1>
 
