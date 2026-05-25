@@ -51,7 +51,7 @@ I enjoy solving real-world problems through technology while continuously explor
 <p>
 <a href="https://developer.android.com/"><img alt="Android" title="Android" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" height="42"></a>
 <a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="42"></a>
-<a href="https://developer.android.com/jetpack/compose"><img alt="Jetpack Compose" title="Jetpack Compose" src="https://developer.android.com/static/images/brand/Android_Robot.png" height="42"></a>
+<a href="https://developer.android.com/jetpack/compose"><img alt="Jetpack Compose" title="Jetpack Compose" src="https://imgs.search.brave.com/741rIzcOI40GZgTALKM3180VpT-OZuWuqEaMhlTU6j0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85Lzk4L0pl/dHBhY2tfQ29tcG9z/ZV9sb2dvLnBuZy81/MTJweC1KZXRwYWNr/X0NvbXBvc2VfbG9n/by5wbmc" height="42"></a>
 </p>
 
 ## 🤖 AI & Machine Learning
@@ -60,8 +60,8 @@ I enjoy solving real-world problems through technology while continuously explor
 <a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" height="42"></a>
 <a href="https://keras.io/"><img alt="Keras" title="Keras" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" height="42"></a>
 <a href="https://scikit-learn.org/"><img alt="Scikit-learn" title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="42"></a>
-<a href="https://pandas.pydata.org/"><img alt="Pandas" title="Pandas" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" height="42"></a>
-<a href="https://www.nltk.org/"><img alt="NLTK" title="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/8/84/NLTK.png" height="42"></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" title="Pandas" src="https://imgs.search.brave.com/s7g535zCMOgvWrbGeB-BvCMjsXk8RAqf5ceLOq0gYaU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9lL2VkL1Bh/bmRhc19sb2dvLnN2/Zy8yNTBweC1QYW5k/YXNfbG9nby5zdmcu/cG5nP3V0bV9zb3Vy/Y2U9d3d3Lndpa2lk/YXRhLm9yZyZhbXA7/dXRtX2NhbXBhaWdu/PXJlc3QmYW1wO3V0/bV9jb250ZW50PXRo/dW1ibmFpbA" height="42"></a>
+<a href="https://www.nltk.org/"><img alt="NLTK" title="NLTK" src="https://img.shields.io/badge/NLTK-Natural%20Language%20Toolkit-green" height="42"></a>
 </p>
 
 ## 🛠 Developer Tools
