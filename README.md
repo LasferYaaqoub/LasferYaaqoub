@@ -101,23 +101,6 @@ I enjoy solving real-world problems through technology while continuously explor
 
 # 📈 GitHub Activity
 
-
-name: GitHub Activity
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: GitHub Activity Readme
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
