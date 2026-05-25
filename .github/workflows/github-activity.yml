@@ -1,5 +1,4 @@
-name: GitHub Activity
-# name: Update README Activity
+name: Update README Activity
 
 on:
   schedule:
@@ -8,7 +7,9 @@ on:
 
 jobs:
   update-readme:
-    name: Update README
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     runs-on: ubuntu-latest
 
     steps:
