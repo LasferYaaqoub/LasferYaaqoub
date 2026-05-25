@@ -113,14 +113,15 @@ jobs:
   update-readme:
     name: Update README
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Update GitHub Activity
         uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<!--END_SECTION:activity-->
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}<!--END_SECTION:activity-->
 
 ---
 
