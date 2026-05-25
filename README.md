@@ -30,10 +30,8 @@ I enjoy solving real-world problems through technology while continuously explor
 
 # 🚀 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" align="right" width="300"/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LasferYaaqoub&show_icons=true&theme=github_dark&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasferYaaqoub&layout=compact&theme=github_dark&cache_seconds=86400)
 ## 💻 Programming Languages
 
 <p>
