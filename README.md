@@ -101,7 +101,6 @@ I enjoy solving real-world problems through technology while continuously explor
 
 # 📈 GitHub Activity
 
-          
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
